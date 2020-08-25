@@ -1,0 +1,10 @@
+.box_login {
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    background-color: white;
+    border-radius: 25px;
+}
+body {
+    background-color: black;
+}
